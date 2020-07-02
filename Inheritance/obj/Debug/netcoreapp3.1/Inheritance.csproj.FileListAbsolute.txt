@@ -1,0 +1,13 @@
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csprojAssemblyReference.cache
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+D:\Projects\Interview\OOPSConcept\OppsConcept\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache
